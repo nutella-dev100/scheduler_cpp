@@ -1,0 +1,11 @@
+# Build artifacts
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.d
+
+# Build directories
+/build
+/bin
